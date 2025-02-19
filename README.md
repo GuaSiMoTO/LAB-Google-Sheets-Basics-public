@@ -1,6 +1,6 @@
 # LAB-Google-Sheets-Basics
 
-![](https://res.cloudinary.com/dbjlaop5w/image/upload/v1739974402/codeskills/google-sheets/Data%20Management/fgmevfyc2rz91nfyggnh.png)
+![](https://user-images.githubusercontent.com/970858/63474771-d6734700-c469-11e9-83bb-9429da563909.png)
 
 ## Introduction
 
