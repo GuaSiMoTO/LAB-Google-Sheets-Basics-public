@@ -52,12 +52,9 @@ These are the types of data that should be assigned to each column:
 ---
 
 ### Iteration 3: Enhancing Data Presentation
-Now that we have our table set up, let's make it visually appealing and easier to interpret. We'll add some enhancements to our data presentation to make it more engaging and insightful. Apply the following formatting and conditional rules to optimize the presentation of our team members' information.
+Now that we have our table set up, let's make it visually appealing and easier to interpret. We'll add some enhancements to our data presentation to make it more engaging and insightful.
 
-1. Apply bold formatting to the header row, center-align the text, and apply some background color.
-2. Change the font color of the names to blue and the age to green.
-3. Use conditional formatting to highlight any cell in the "Age" column. Use one color for cells with values greater than 30 and another color for cells with values less than 30.
-4. Use conditional formatting to highlight the cells based on the Full-Time status. For instance, apply a green fill color to cells where the employee is marked as Full-Time, and a red fill color to cells where the employee is marked as Part-Time.
+- Tip: Apply bold formatting to the header row, center-align the text, and apply some background color...
 
 ---
 
