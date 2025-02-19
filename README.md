@@ -99,7 +99,9 @@ For the "Analysis" Sheet:
 ---
 
 ## Submission
-Once you have finished, share your Google Sheets file with your instructor or upload the link to your forked GitHub repository.
+Once you have finished, share your Google Sheets file with your instructor and paste here the sharing link:
+
+- **Sharing link:**
 
 Then create a Pull Request!!
 
