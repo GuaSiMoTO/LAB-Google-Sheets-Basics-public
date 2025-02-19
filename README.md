@@ -1,6 +1,6 @@
 # LAB-Google-Sheets-Basics
 
-![](https://images-ext-1.discordapp.net/external/dkBicrHzUxUqUh-WDRAkj8VQIBL8ggLQGcro1kmaSHA/https/res.cloudinary.com/edukami-staging/image/upload/v1739975930/labImages/cuerdenwd29wgrvn4m0j.png?format=webp&quality=lossless&width=1391&height=288)
+![Student LAB](https://images-ext-1.discordapp.net/external/dkBicrHzUxUqUh-WDRAkj8VQIBL8ggLQGcro1kmaSHA/https/res.cloudinary.com/edukami-staging/image/upload/v1739975930/labImages/cuerdenwd29wgrvn4m0j.png?format=webp&quality=lossless&width=1391&height=288)
 
 ## Introduction
 
@@ -112,3 +112,4 @@ Then create a Pull Request!!
 - [Conditional Formatting in Google Sheets](https://support.google.com/docs/answer/78413?hl=en)
 - [Google Sheets Functions](https://support.google.com/docs/table/25273?hl=en)
 
+![Happy Coding](https://images-ext-1.discordapp.net/external/yCS9e-T4ZqwyrDeKZivDFuwoXfN2h5eWdr9eg6YedlU/https/res.cloudinary.com/edukami-staging/image/upload/v1739975973/labImages/dytxhbiiyolvrbgipq4x.png?format=webp&quality=lossless&width=1391&height=288)
