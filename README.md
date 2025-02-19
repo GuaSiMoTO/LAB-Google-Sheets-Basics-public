@@ -1,6 +1,7 @@
 # LAB-Google-Sheets-Basics
 
-![desc](https://res.cloudinary.com/dbjlaop5w/image/upload/v1739974402/codeskills/google-sheets/Data%20Management/fgmevfyc2rz91nfyggnh.png){{{width="auto" height="auto"}}}
+![](https://res.cloudinary.com/dbjlaop5w/image/upload/v1739974402/codeskills/google-sheets/Data%20Management/fgmevfyc2rz91nfyggnh.png)
+
 ## Introduction
 
 > ***Note:*** _This can be a pair programming activity or done independently._
