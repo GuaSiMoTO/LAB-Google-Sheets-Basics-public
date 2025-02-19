@@ -112,4 +112,3 @@ Then create a Pull Request!!
 - [Conditional Formatting in Google Sheets](https://support.google.com/docs/answer/78413?hl=en)
 - [Google Sheets Functions](https://support.google.com/docs/table/25273?hl=en)
 
-![happy_coding](https://res.cloudinary.com/dbjlaop5w/image/upload/v1739973819/codeskills/google-sheets/Data%20Management/qebkyfekuescbozcu8jl.png)
