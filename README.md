@@ -104,7 +104,7 @@ Once you have finished, share your Google Sheets file with your instructor and p
 
 - **Sharing link:**
 
-Then create a Pull Request!!
+https://docs.google.com/spreadsheets/d/14JBxWvk5Smshv-UkXPQdS5GeEh_GmLldf9vSroF8P2w/edit?usp=sharing
 
 ## Additional Resources
 
